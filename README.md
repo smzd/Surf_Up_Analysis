@@ -9,6 +9,7 @@ June has 1700 temperature readings, whereas December has 1517 temperature readin
 ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/June_stat.png) ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/dec_stat.png)
 
 Fig: June and December Statistics
+
 •	The mean for both June and December temperature is in the same range as in the 70s.
 
 •	During June, the temperature drops to 64 degrees, and December's lowest is 56 degrees.
