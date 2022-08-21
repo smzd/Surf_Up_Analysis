@@ -5,6 +5,7 @@ To open up a surf shop in Oahu, one of the significant aspects is to analyze wea
                                                  #Analysis
                                                  
 June has 1700 temperature readings, whereas December has 1517 temperature readings. Based on that, we can say 
+![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/June_stat.png) ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/dec_stat.png)
 
 •	The mean for both June and December temperature is in the same range as in the 70s.
 
