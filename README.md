@@ -4,9 +4,11 @@ To open up a surf shop in Oahu, one of the significant aspects is to analyze wea
 
                                                  #Analysis
                                                  
-June has 1700 temperature readings, whereas December has 1517 temperature readings. Based on that, we can say 
+June has 1700 temperature readings, whereas December has 1517 temperature readings. Based on that, we can say:
+
 ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/June_stat.png) ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/dec_stat.png)
 
+Fig: June and December Statistics
 •	The mean for both June and December temperature is in the same range as in the 70s.
 
 •	During June, the temperature drops to 64 degrees, and December's lowest is 56 degrees.
@@ -20,4 +22,12 @@ After running all the data, we concluded that opening a surf shop in Oahu is sus
 
 •	During June and December, temperature occurrences are around 70 degrees. From the diagram, we can depict the weather staying pretty much the same.
 
+![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/june_hist.png) ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/dec_hist.png)
+
+fig: June and December Histogram
+
 •	The chances of rainfall are pretty low in Oahu. The average precipitation for both June and December is 0.13 inches. Maximum precipitation for June is 4.43 inches and during December is 6.43 inches.
+
+![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/june_prcp.png) ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/dec_prcp.png)
+
+Fig: June and December Precipitation Statistics
