@@ -30,7 +30,7 @@ Fig: June Histogram
 
 Fig: December Histogram
 
-•	The chances of rainfall are pretty low in Oahu. The average precipitation for both June and December is 0.13 inches. Maximum precipitation for June is 4.43 inches and during December is 6.43 inches.
+•	The chances of rainfall are pretty low in Oahu. The mean precipitation for June is 0.13 inches and December is 0.21 inches. Maximum precipitation for June is 4.43 inches and during December is 6.43 inches.
 
 ![](https://github.com/smzd/Surfs_Up_Analysis/blob/main/Resources/june_prcp.png) 
 
